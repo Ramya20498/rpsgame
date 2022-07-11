@@ -214,7 +214,7 @@
   </target>
 
   <!-- ====================================================================== -->
-  <!-- A dummy target for the package named after the type it creates         -->
+  <!-- A dummy target for the package named after the type it creates   testing jenkins       -->
   <!-- ====================================================================== -->
 
   <target name="war" depends="package" description="Builds the war for the application"/>
